@@ -7,7 +7,7 @@ vendor/etc/mixer_paths_b2n.xml
 vendor/etc/mixer_paths_b2n_cn.xml
 
 # Audio (ACDB) - from Nokia/Onyx_00WW/B2N_sprout:10/QKQ1.190828.002/00WW_4_15D:user/release-keys
-vendor/etc/acdbdata/B2N/Bluetooth_cal.acd
+vendor/etc/acdbdata/B2N/Bluetooth_cal.acdb
 vendor/etc/acdbdata/B2N/General_cal.acdb
 vendor/etc/acdbdata/B2N/Global_cal.acdb
 vendor/etc/acdbdata/B2N/Handset_cal.acdb
@@ -15,7 +15,7 @@ vendor/etc/acdbdata/B2N/Hdmi_cal.acdb
 vendor/etc/acdbdata/B2N/Headset_cal.acdb
 vendor/etc/acdbdata/B2N/Speaker_cal.acdb
 
-vendor/etc/acdbdata/B2N/B2N_ICT/Bluetooth_cal.acd
+vendor/etc/acdbdata/B2N/B2N_ICT/Bluetooth_cal.acdb
 vendor/etc/acdbdata/B2N/B2N_ICT/General_cal.acdb
 vendor/etc/acdbdata/B2N/B2N_ICT/Global_cal.acdb
 vendor/etc/acdbdata/B2N/B2N_ICT/Handset_cal.acdb
