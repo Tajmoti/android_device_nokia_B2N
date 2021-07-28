@@ -1,0 +1,17 @@
+# Fingerprint
+on early-boot
+    setprop ro.hardware.fingerprint gxfp3208_b2n
+
+on fs
+    chown system system /dev/goodix_fp
+    chmod 666 /dev/goodix_fp
+
+on post-fs-data
+    mkdir /data/system/fingerprint 0770 system system
+
+# SIM cards
+on property:ro.boot.simslot=1
+    setprop persist.radio.multisim.config ss
+
+on property:ro.boot.simslot=2
+    setprop persist.radio.multisim.config dsds

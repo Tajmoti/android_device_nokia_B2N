@@ -26,3 +26,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/nokia/B2N/B2N-vendor.mk)
+
+# Ramdisk
+PRODUCT_PACKAGES += \
+    init.B2N.target.rc
