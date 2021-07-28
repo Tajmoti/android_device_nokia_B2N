@@ -25,5 +25,4 @@ $(call inherit-product, device/nokia/sdm660-common/sdm660.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product, vendor/nokia/sdm660-common/sdm660-common-vendor.mk)
-
+$(call inherit-product, vendor/nokia/B2N/B2N-vendor.mk)
