@@ -108,6 +108,8 @@ vendor/lib/libchromatix_s5k3p8sp_b2n_preview.so
 vendor/lib/libchromatix_s5k3p8sp_b2n_snapshot.so
 vendor/lib/libchromatix_s5k3p8sp_b2n_versions.so
 vendor/lib/libchromatix_s5k3p8sp_b2n_video.so
+vendor/lib/libmmcamera_m24c64s_b2n_tele_eeprom.so
+vendor/lib/libmmcamera_m24c64t_b2n_wide_eeprom.so
 vendor/lib/libmmcamera_s5k2l7_b2n_wide.so
 vendor/lib/libmmcamera_s5k3m3sm_b2n_tele.so
 vendor/lib/libmmcamera_s5k3p8sp_b2n_gt24c64_eeprom.so
