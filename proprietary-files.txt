@@ -349,7 +349,6 @@ vendor/etc/init/hw/init.TAS.target.rc
 vendor/etc/init/hw/init.vibrator.rc
 vendor/etc/init/hw/vendor.nxp.hardware.nfc@1.2-service.rc
 vendor/etc/init/init.fih.app_overlay.rc
-vendor/etc/init/init.qcom.cda.vendor.rc
 vendor/etc/init/init-qcril-data.rc
 vendor/etc/init/init.qdmastats.rc
 vendor/etc/init/init.qti.fm.rc
