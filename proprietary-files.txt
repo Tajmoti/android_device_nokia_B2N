@@ -323,7 +323,6 @@ vendor/etc/init/hw/init.qcom.factory.rc
 vendor/etc/init/hw/init.qcom.fs.rc
 vendor/etc/init/hw/init.qcom.lcm.rc
 vendor/etc/init/hw/init.qcom.ramdump.rc
-vendor/etc/init/hw/init.qcom.rc
 vendor/etc/init/hw/init.qcom.sensor.rc
 vendor/etc/init/hw/init.qcom.target.rc
 vendor/etc/init/hw/init.qcom.tp.rc
