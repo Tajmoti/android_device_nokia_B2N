@@ -345,7 +345,6 @@ vendor/etc/init/hw/init.sku.600WW.B2L.1.rc
 vendor/etc/init/hw/init.sku.600WW.B2L.2.rc
 vendor/etc/init/hw/init.sku.rc
 vendor/etc/init/hw/init.SS2.target.rc
-vendor/etc/init/hw/init.target.rc
 vendor/etc/init/hw/init.TAS.target.rc
 vendor/etc/init/hw/init.vibrator.rc
 vendor/etc/init/hw/vendor.nxp.hardware.nfc@1.2-service.rc
