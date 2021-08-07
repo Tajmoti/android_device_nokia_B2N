@@ -426,7 +426,6 @@ vendor/etc/mkshrc
 vendor/etc/msm_irqbalance.conf
 vendor/etc/msm_irqbalance_sdm630.conf
 vendor/etc/nfcee_access.xml
-vendor/etc/NOTICE.xml.gz
 vendor/etc/ozo_config.xml
 vendor/etc/passwd
 vendor/etc/perf/perfconfigstore.xml
